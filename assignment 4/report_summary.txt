@@ -1,0 +1,15 @@
+======== WEATHER DATA ANALYSIS REPORT ========
+
+Mean Temperature : 23.80392156862745
+Max Temperature : 34
+Min Temperature : 12
+Std Deviation : 5.688032182705683
+Total Rainfall : 37.8
+Mean Humidity : 51.64705882352941
+
+------ Monthly Summary ------
+      temperature_C         rainfall_mm humidity_percent
+               mean min max         sum             mean
+month                                                   
+1         21.354839  12  31        26.7        54.322581
+2         27.600000  20  34        11.1        47.500000
