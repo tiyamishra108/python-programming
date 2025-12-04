@@ -1,0 +1,4 @@
+=== ENERGY SUMMARY REPORT ===
+Total Consumption: 3926.00 kWh
+Highest Consuming Building: buildingB
+Peak Load Time: 2024-01-05 00:00:00
